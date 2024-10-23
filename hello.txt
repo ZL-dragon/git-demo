@@ -1,2 +1,6 @@
 hello zhaolong 
 hello git!
+
+
+阿龙学git 
+加了欲练此功，挥刀自宫
